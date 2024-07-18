@@ -1,0 +1,44 @@
+{
+    "workers": [
+        {
+            "id": 8528,
+            "qualified": false,
+            "name": "Klaus",
+            "workload": 80,
+            "max_nightshifts_month": 6,
+            "max_consecutive_nightshifts": 3
+        },
+        {
+            "id": 1648,
+            "qualified": true,
+            "name": "Uwe",
+            "workload": 100,
+            "max_nightshifts_month": 10,
+            "max_consecutive_nightshifts": 4
+        },
+        {
+            "id": 4277,
+            "qualified": true,
+            "name": "Peter",
+            "workload": 70,
+            "max_nightshifts_month": 5,
+            "max_consecutive_nightshifts": 2
+        },
+        {
+            "id": 2760,
+            "qualified": false,
+            "name": "Harald",
+            "workload": 40,
+            "max_nightshifts_month": 3,
+            "max_consecutive_nightshifts": 3
+        },
+        {
+            "id": 5472,
+            "qualified": false,
+            "name": "Karl",
+            "workload": 100,
+            "max_nightshifts_month": 10,
+            "max_consecutive_nightshifts": 5
+        }
+    ]
+}
